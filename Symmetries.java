@@ -2,9 +2,6 @@ package geometry;
 
 import java.util.Collection;
 
-/**
- * @author Ritwik Banerjee
- */
 public interface Symmetries<S extends Shape> {
 
     /**
