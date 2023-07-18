@@ -52,16 +52,16 @@ Follow the prompts in the command-line interface to explore the mathematical gro
 ##FiniteGroupOfOrderTwo
 An implementation of a finite group {±1} under standard multiplication of real numbers.
 
-##RadialGraph
+### RadialGraph
 A class representing a RadialGraph, which is a graph with nodes connected only to a central node by directed edges.
 
-##Square
+### Square
 A class representing a Square, defined by four Point objects arranged in a specific order.
 
-##SquareSymmetries
+### SquareSymmetries
 A class providing symmetries of the Square shape. Implements the Symmetries interface.
 
-###RadialGraphSymmetries
+### RadialGraphSymmetries
 A class providing rotational symmetries of the RadialGraph. Implements the Symmetries interface.
 
 
