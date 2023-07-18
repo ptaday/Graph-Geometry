@@ -8,7 +8,6 @@ import java.util.List;
  * This class is given to you as an outline for testing your code. You can modify this as you want, but please keep in
  * mind that the lines already provided here as expected to work exactly as they are.
  *
- * @author Ritwik Banerjee
  */
 public class GeometryTest {
 
