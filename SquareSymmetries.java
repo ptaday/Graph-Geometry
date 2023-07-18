@@ -45,21 +45,6 @@ public class SquareSymmetries implements Symmetries<Square>{
         listOfSymmetries.add(square);
     }
 
-       /* Square verticalSquare=new Square();
-
-        System.out.println(newSquare.side4);
-        verticalSquare.setSide1(newSquare.side4);
-        verticalSquare.setSide2(newSquare.side3);
-        verticalSquare.setSide3(newSquare.side2);
-        verticalSquare.setSide4(newSquare.side1);
-        System.out.println();
-        System.out.println(verticalSquare);
-        System.out.println();
-
-        */
-
-
-
         listOfSymmetries.add(verticalReflection(newSquare));
 
         listOfSymmetries.add(horizontalReflection(newSquare));
