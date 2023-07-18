@@ -49,7 +49,7 @@ $ java Main
 Follow the prompts in the command-line interface to explore the mathematical groups, symmetries, and shapes implemented in the project.
 
 ## Class Details
-##FiniteGroupOfOrderTwo
+###v FiniteGroupOfOrderTwo
 An implementation of a finite group {±1} under standard multiplication of real numbers.
 
 ### RadialGraph
