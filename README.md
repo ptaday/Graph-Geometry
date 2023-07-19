@@ -40,13 +40,9 @@ $ cd GraphGeometry
 
 ## Usage
  
- To compile and run the code locally
-
-```bash
-$ javac Main.java 
-$ java Main
-```
 Follow the prompts in the command-line interface to explore the mathematical groups, symmetries, and shapes implemented in the project.
+
+Keep in my mind to create a package name and include the package name in all the classes.
 
 ## Class Details
 ### FiniteGroupOfOrderTwo
